@@ -36,7 +36,7 @@ app.get('/sobre', (req, res) => {
 app.get('/contato', (req, res) => {
   res.send(`
     <html>
-      <head><title>Contato</title></head>
+      <head><title>Contact</title></head>
       <body>
         <h1>Fale Conosco</h1>
         <p>Entre em contato pelo e-mail: contato@exemplo.com</p>
